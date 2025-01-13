@@ -1,7 +1,44 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\gRPC_Test\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A90CDEAA-1654-4DD1-81A6-E6B5E553FEAA}|GrpcServer\\GrpcServer.csproj|e:\\lin\\programming\\asp.net\\asp.net-projects\\grpc_test\\grpcserver\\grpcserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A90CDEAA-1654-4DD1-81A6-E6B5E553FEAA}|GrpcServer\\GrpcServer.csproj|solutionrelative:grpcserver\\grpcserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7FE776-3FF8-4477-BBB4-FA2F011E0565}|GrpcShared\\GrpcShared.csproj|e:\\lin\\programming\\asp.net\\asp.net-projects\\grpc_test\\grpcshared\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{4C7FE776-3FF8-4477-BBB4-FA2F011E0565}|GrpcShared\\GrpcShared.csproj|solutionrelative:grpcshared\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7FE776-3FF8-4477-BBB4-FA2F011E0565}|GrpcShared\\GrpcShared.csproj|e:\\lin\\programming\\asp.net\\asp.net-projects\\grpc_test\\grpcshared\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C7FE776-3FF8-4477-BBB4-FA2F011E0565}|GrpcShared\\GrpcShared.csproj|solutionrelative:grpcshared\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90CDEAA-1654-4DD1-81A6-E6B5E553FEAA}|GrpcServer\\GrpcServer.csproj|e:\\lin\\programming\\asp.net\\asp.net-projects\\grpc_test\\grpcserver\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90CDEAA-1654-4DD1-81A6-E6B5E553FEAA}|GrpcServer\\GrpcServer.csproj|solutionrelative:grpcserver\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7FE776-3FF8-4477-BBB4-FA2F011E0565}|GrpcShared\\GrpcShared.csproj|e:\\lin\\programming\\asp.net\\asp.net-projects\\grpc_test\\grpcshared\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C7FE776-3FF8-4477-BBB4-FA2F011E0565}|GrpcShared\\GrpcShared.csproj|solutionrelative:grpcshared\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6150EEE-D7F0-446A-BEB6-AF121E56E977}|Grpc_Client\\Grpc_Client.csproj|e:\\lin\\programming\\asp.net\\asp.net-projects\\grpc_test\\grpc_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6150EEE-D7F0-446A-BEB6-AF121E56E977}|Grpc_Client\\Grpc_Client.csproj|solutionrelative:grpc_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90CDEAA-1654-4DD1-81A6-E6B5E553FEAA}|GrpcServer\\GrpcServer.csproj|e:\\lin\\programming\\asp.net\\asp.net-projects\\grpc_test\\grpcserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90CDEAA-1654-4DD1-81A6-E6B5E553FEAA}|GrpcServer\\GrpcServer.csproj|solutionrelative:grpcserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6150EEE-D7F0-446A-BEB6-AF121E56E977}|Grpc_Client\\Grpc_Client.csproj|e:\\lin\\programming\\asp.net\\asp.net-projects\\grpc_test\\grpc_client\\grpc_client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D6150EEE-D7F0-446A-BEB6-AF121E56E977}|Grpc_Client\\Grpc_Client.csproj|solutionrelative:grpc_client\\grpc_client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7FE776-3FF8-4477-BBB4-FA2F011E0565}|GrpcShared\\GrpcShared.csproj|e:\\lin\\programming\\asp.net\\asp.net-projects\\grpc_test\\grpcshared\\grpcshared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4C7FE776-3FF8-4477-BBB4-FA2F011E0565}|GrpcShared\\GrpcShared.csproj|solutionrelative:grpcshared\\grpcshared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +46,126 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:668305255:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\gRPC_Test\\GrpcShared\\Program.cs",
+              "RelativeDocumentMoniker": "GrpcShared\\Program.cs",
+              "ToolTip": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\gRPC_Test\\GrpcShared\\Program.cs",
+              "RelativeToolTip": "GrpcShared\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T05:56:01.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "greet.proto",
+              "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\gRPC_Test\\GrpcShared\\Protos\\greet.proto",
+              "RelativeDocumentMoniker": "GrpcShared\\Protos\\greet.proto",
+              "ToolTip": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\gRPC_Test\\GrpcShared\\Protos\\greet.proto",
+              "RelativeToolTip": "GrpcShared\\Protos\\greet.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2025-01-11T22:54:34.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GreeterService.cs",
+              "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\gRPC_Test\\GrpcShared\\Services\\GreeterService.cs",
+              "RelativeDocumentMoniker": "GrpcShared\\Services\\GreeterService.cs",
+              "ToolTip": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\gRPC_Test\\GrpcShared\\Services\\GreeterService.cs",
+              "RelativeToolTip": "GrpcShared\\Services\\GreeterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T22:25:17.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GrpcShared.csproj",
+              "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\gRPC_Test\\GrpcShared\\GrpcShared.csproj",
+              "RelativeDocumentMoniker": "GrpcShared\\GrpcShared.csproj",
+              "ToolTip": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\gRPC_Test\\GrpcShared\\GrpcShared.csproj",
+              "RelativeToolTip": "GrpcShared\\GrpcShared.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-11T21:48:03.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GreeterService.cs",
+              "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\gRPC_Test\\GrpcServer\\Services\\GreeterService.cs",
+              "RelativeDocumentMoniker": "GrpcServer\\Services\\GreeterService.cs",
+              "ToolTip": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\gRPC_Test\\GrpcServer\\Services\\GreeterService.cs",
+              "RelativeToolTip": "GrpcServer\\Services\\GreeterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T12:27:52.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GrpcServer.csproj",
+              "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\gRPC_Test\\GrpcServer\\GrpcServer.csproj",
+              "RelativeDocumentMoniker": "GrpcServer\\GrpcServer.csproj",
+              "ToolTip": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\gRPC_Test\\GrpcServer\\GrpcServer.csproj",
+              "RelativeToolTip": "GrpcServer\\GrpcServer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-11T12:26:59.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Grpc_Client.csproj",
+              "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\gRPC_Test\\Grpc_Client\\Grpc_Client.csproj",
+              "RelativeDocumentMoniker": "Grpc_Client\\Grpc_Client.csproj",
+              "ToolTip": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\gRPC_Test\\Grpc_Client\\Grpc_Client.csproj",
+              "RelativeToolTip": "Grpc_Client\\Grpc_Client.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-11T12:26:55.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\gRPC_Test\\Grpc_Client\\Program.cs",
+              "RelativeDocumentMoniker": "Grpc_Client\\Program.cs",
+              "ToolTip": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\gRPC_Test\\Grpc_Client\\Program.cs",
+              "RelativeToolTip": "Grpc_Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T12:26:53.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\gRPC_Test\\GrpcServer\\Program.cs",
+              "RelativeDocumentMoniker": "GrpcServer\\Program.cs",
+              "ToolTip": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\gRPC_Test\\GrpcServer\\Program.cs",
+              "RelativeToolTip": "GrpcServer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T12:04:27.801Z"
             }
           ]
         }

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ZKqCRuhCUw3mCBHMWBSP3w9WVhLbxGfNH1weqSpnFm8=",
+  "Source": "GrpcShared",
+  "BasePath": "_content/GrpcShared",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

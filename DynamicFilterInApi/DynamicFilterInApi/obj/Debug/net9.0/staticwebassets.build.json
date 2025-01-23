@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "14lvTKVDHvm8cmp1nZDQpXlobmvKSgG1tnZy9SdmbHc=",
+  "Source": "DynamicFilterInApi",
+  "BasePath": "_content/DynamicFilterInApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

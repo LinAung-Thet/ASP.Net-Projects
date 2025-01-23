@@ -1,0 +1,6 @@
+@DynamicFilterInApi_HostAddress = http://localhost:5245
+
+GET {{DynamicFilterInApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

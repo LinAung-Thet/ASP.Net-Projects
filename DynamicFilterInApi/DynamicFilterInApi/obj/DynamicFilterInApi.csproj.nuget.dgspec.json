@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DynamicFilterInApi\\DynamicFilterInApi\\DynamicFilterInApi.csproj": {}
+    "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DynamicFilterInApi\\DynamicFilterInApi\\DynamicFilterinApi.csproj": {}
   },
   "projects": {
-    "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DynamicFilterInApi\\DynamicFilterInApi\\DynamicFilterInApi.csproj": {
+    "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DynamicFilterInApi\\DynamicFilterInApi\\DynamicFilterinApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DynamicFilterInApi\\DynamicFilterInApi\\DynamicFilterInApi.csproj",
-        "projectName": "DynamicFilterInApi",
-        "projectPath": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DynamicFilterInApi\\DynamicFilterInApi\\DynamicFilterInApi.csproj",
+        "projectUniqueName": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DynamicFilterInApi\\DynamicFilterInApi\\DynamicFilterinApi.csproj",
+        "projectName": "DynamicFilterinApi",
+        "projectPath": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DynamicFilterInApi\\DynamicFilterInApi\\DynamicFilterinApi.csproj",
         "packagesPath": "C:\\Users\\LAT\\.nuget\\packages\\",
         "outputPath": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DynamicFilterInApi\\DynamicFilterInApi\\obj\\",
         "projectStyle": "PackageReference",
@@ -52,6 +52,14 @@
           "targetAlias": "net9.0",
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
               "version": "[9.0.1, )"
             }

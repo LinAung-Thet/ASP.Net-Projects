@@ -10,3 +10,11 @@ E:\Lin\Programming\Asp.Net\ASP.Net-Projects\BasketContext.Domain\BasketContext.D
 E:\Lin\Programming\Asp.Net\ASP.Net-Projects\BasketContext.Domain\BasketContext.Domain\obj\Debug\net9.0\refint\BasketContext.Domain.dll
 E:\Lin\Programming\Asp.Net\ASP.Net-Projects\BasketContext.Domain\BasketContext.Domain\obj\Debug\net9.0\BasketContext.Domain.pdb
 E:\Lin\Programming\Asp.Net\ASP.Net-Projects\BasketContext.Domain\BasketContext.Domain\obj\Debug\net9.0\ref\BasketContext.Domain.dll
+E:\Lin\Programming\Asp.Net\ASP.Net-Projects\DomainDrivenDesign\BasketContext.Domain\obj\Debug\net9.0\BasketContext.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lin\Programming\Asp.Net\ASP.Net-Projects\DomainDrivenDesign\BasketContext.Domain\obj\Debug\net9.0\BasketContext.Domain.AssemblyInfoInputs.cache
+E:\Lin\Programming\Asp.Net\ASP.Net-Projects\DomainDrivenDesign\BasketContext.Domain\obj\Debug\net9.0\BasketContext.Domain.AssemblyInfo.cs
+E:\Lin\Programming\Asp.Net\ASP.Net-Projects\DomainDrivenDesign\BasketContext.Domain\obj\Debug\net9.0\BasketContext.Domain.csproj.CoreCompileInputs.cache
+E:\Lin\Programming\Asp.Net\ASP.Net-Projects\DomainDrivenDesign\BasketContext.Domain\obj\Debug\net9.0\BasketContext.Domain.sourcelink.json
+E:\Lin\Programming\Asp.Net\ASP.Net-Projects\DomainDrivenDesign\BasketContext.Domain\obj\Debug\net9.0\BasketContext.Domain.dll
+E:\Lin\Programming\Asp.Net\ASP.Net-Projects\DomainDrivenDesign\BasketContext.Domain\obj\Debug\net9.0\refint\BasketContext.Domain.dll
+E:\Lin\Programming\Asp.Net\ASP.Net-Projects\DomainDrivenDesign\BasketContext.Domain\obj\Debug\net9.0\BasketContext.Domain.pdb

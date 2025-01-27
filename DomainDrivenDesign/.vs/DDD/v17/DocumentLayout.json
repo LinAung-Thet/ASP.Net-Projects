@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\BasketContext.Domain\\",
+  "WorkspaceRootPath": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D9DEC34-D769-477A-BA45-7F07D358E867}|BasketContext.Domain\\BasketContext.Domain.csproj|e:\\lin\\programming\\asp.net\\asp.net-projects\\basketcontext.domain\\basketcontext.domain\\basketcontext.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{4D9DEC34-D769-477A-BA45-7F07D358E867}|BasketContext.Domain\\BasketContext.Domain.csproj|e:\\lin\\programming\\asp.net\\asp.net-projects\\domaindrivendesign\\basketcontext.domain\\basketcontext.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{4D9DEC34-D769-477A-BA45-7F07D358E867}|BasketContext.Domain\\BasketContext.Domain.csproj|solutionrelative:basketcontext.domain\\basketcontext.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -23,10 +23,10 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BasketContext.Domain",
-              "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\BasketContext.Domain\\BasketContext.Domain\\BasketContext.Domain.csproj",
+              "Title": "BasketContext.Domain.csproj",
+              "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Domain\\BasketContext.Domain.csproj",
               "RelativeDocumentMoniker": "BasketContext.Domain\\BasketContext.Domain.csproj",
-              "ToolTip": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\BasketContext.Domain\\BasketContext.Domain\\BasketContext.Domain.csproj",
+              "ToolTip": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Domain\\BasketContext.Domain.csproj",
               "RelativeToolTip": "BasketContext.Domain\\BasketContext.Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",

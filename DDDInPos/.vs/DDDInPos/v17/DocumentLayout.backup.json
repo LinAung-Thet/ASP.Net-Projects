@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DDDInPos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ECBDCA88-7257-419A-83E9-5EE37C623EEA}|DDDInPos\\DDDInPos.csproj|e:\\lin\\programming\\asp.net\\asp.net-projects\\dddinpos\\dddinpos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECBDCA88-7257-419A-83E9-5EE37C623EEA}|DDDInPos\\DDDInPos.csproj|solutionrelative:dddinpos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ECBDCA88-7257-419A-83E9-5EE37C623EEA}|DDDInPos\\DDDInPos.csproj|e:\\lin\\programming\\asp.net\\asp.net-projects\\dddinpos\\dddinpos\\temp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECBDCA88-7257-419A-83E9-5EE37C623EEA}|DDDInPos\\DDDInPos.csproj|solutionrelative:dddinpos\\temp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBDCA88-7257-419A-83E9-5EE37C623EEA}|DDDInPos\\DDDInPos.csproj|e:\\lin\\programming\\asp.net\\asp.net-projects\\dddinpos\\dddinpos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECBDCA88-7257-419A-83E9-5EE37C623EEA}|DDDInPos\\DDDInPos.csproj|solutionrelative:dddinpos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ECBDCA88-7257-419A-83E9-5EE37C623EEA}|DDDInPos\\DDDInPos.csproj|e:\\lin\\programming\\asp.net\\asp.net-projects\\dddinpos\\dddinpos\\ordercreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,13 +30,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Temp.cs",
               "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DDDInPos\\DDDInPos\\Temp.cs",
               "RelativeDocumentMoniker": "DDDInPos\\Temp.cs",
               "ToolTip": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DDDInPos\\DDDInPos\\Temp.cs",
               "RelativeToolTip": "DDDInPos\\Temp.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFIAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-27T01:52:59.594Z",
               "EditorCaption": ""
@@ -51,18 +51,17 @@
               "RelativeToolTip": "DDDInPos\\OrderCreatedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T23:42:28.369Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-26T23:42:28.369Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DDDInPos\\DDDInPos\\Program.cs",
               "RelativeDocumentMoniker": "DDDInPos\\Program.cs",
               "ToolTip": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DDDInPos\\DDDInPos\\Program.cs",
               "RelativeToolTip": "DDDInPos\\Program.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAYwGUAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-26T22:58:21.807Z",
               "EditorCaption": ""

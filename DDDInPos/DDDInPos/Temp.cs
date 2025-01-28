@@ -82,32 +82,6 @@ namespace DDDInPos.Temp
 
         public List<object> DomainEvents { get; private set; } = new List<object>();
 
-        public class OrderCreatedEvent
-        {
-            public Guid OrderId { get; }
-            public int CustomerId { get; }
-
-            public OrderCreatedEvent(Guid orderId, int customerId)
-            {
-                OrderId = orderId;
-                CustomerId = customerId;
-            }
-        }
-
-        public class OrderItemAddedEvent
-        {
-            public Guid OrderId { get; }
-            public int ProductId { get; }
-            public int Quantity { get; }
-
-            public OrderItemAddedEvent(Guid orderId, int productId, int quantity)
-            {
-                OrderId = orderId;
-                ProductId = productId;
-                Quantity = quantity;
-            }
-        }
-
         public static Order Create(Customer customer)
         {
             if (customer == null)
@@ -130,6 +104,32 @@ namespace DDDInPos.Temp
 
             // Publish OrderItemAddedEvent
             DomainEvents.Add(new OrderItemAddedEvent(Id, product.Id, quantity));
+        }
+    }
+
+    public class OrderCreatedEvent
+    {
+        public Guid OrderId { get; }
+        public int CustomerId { get; }
+
+        public OrderCreatedEvent(Guid orderId, int customerId)
+        {
+            OrderId = orderId;
+            CustomerId = customerId;
+        }
+    }
+
+    public class OrderItemAddedEvent
+    {
+        public Guid OrderId { get; }
+        public int ProductId { get; }
+        public int Quantity { get; }
+
+        public OrderItemAddedEvent(Guid orderId, int productId, int quantity)
+        {
+            OrderId = orderId;
+            ProductId = productId;
+            Quantity = quantity;
         }
     }
 

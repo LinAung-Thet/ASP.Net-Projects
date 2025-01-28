@@ -5,6 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using static DDDInPos.Order;
 
+Console.WriteLine("Hello world!");
+
 namespace DDDInPos
 {
 

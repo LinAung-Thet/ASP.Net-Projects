@@ -1,4 +1,6 @@
-﻿namespace VOEConsulting.Flame.BasketContext.Domain.Baskets
+﻿using Common.Domain;
+
+namespace BasketContext.Domain.Baskets
 {
     public sealed class Customer : Entity<Customer>
     {

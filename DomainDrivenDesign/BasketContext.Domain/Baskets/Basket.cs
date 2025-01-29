@@ -1,9 +1,12 @@
-﻿using VOEConsulting.Flame.BasketContext.Domain.Baskets.Events;
-using VOEConsulting.Flame.BasketContext.Domain.Baskets.Services;
-using VOEConsulting.Flame.BasketContext.Domain.Coupons;
-using VOEConsulting.Flame.Common.Domain.Exceptions;
+﻿using BasketContext.Domain.Baskets;
+using BasketContext.Domain.Baskets.Events;
+using BasketContext.Domain.Baskets.Services;
+using BasketContext.Domain.Coupons;
+using Common.Domain;
+using Common.Domain.Exceptions;
+using Common.Domain.Extensions;
 
-namespace VOEConsulting.Flame.BasketContext.Domain.Baskets
+namespace BasketContext.Domain.Baskets
 {
     public sealed class Basket : AggregateRoot<Basket>
     {

@@ -1,4 +1,7 @@
-﻿namespace VOEConsulting.Flame.BasketContext.Domain.Baskets
+﻿using Common.Domain;
+using Common.Domain.Extensions;
+
+namespace BasketContext.Domain.Baskets
 {
     public sealed class BasketItem : Entity<BasketItem>
     {

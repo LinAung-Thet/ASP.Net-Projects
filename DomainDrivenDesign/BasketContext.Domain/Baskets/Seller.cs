@@ -1,6 +1,7 @@
-﻿using VOEConsulting.Flame.BasketContext.Domain.Baskets.Services;
+﻿using BasketContext.Domain.Baskets.Services;
+using Common.Domain;
 
-namespace VOEConsulting.Flame.BasketContext.Domain.Baskets
+namespace BasketContext.Domain.Baskets
 {
     public sealed class Seller : Entity<Seller>
     {

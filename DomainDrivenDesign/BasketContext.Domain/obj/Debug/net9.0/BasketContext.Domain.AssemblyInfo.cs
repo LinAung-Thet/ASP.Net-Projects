@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BasketContext.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c27b2eb569f94a7cf4efdbed7d90e3f7a78d0b4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d68d29075052c3015a4b2591e58a39253ef989f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("BasketContext.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BasketContext.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

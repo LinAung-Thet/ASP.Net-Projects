@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "5lcXegZ0Log=",
+  "dgSpecHash": "4eZ7b9BIFm4=",
   "success": true,
   "projectFilePath": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\Common.Domain\\Common.Domain.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\LAT\\.nuget\\packages\\ardalis.smartenum\\8.2.0\\ardalis.smartenum.8.2.0.nupkg.sha512",
     "C:\\Users\\LAT\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
     "C:\\Users\\LAT\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\LAT\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"

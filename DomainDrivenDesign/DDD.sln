@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Domain", "Common.Dom
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Core", "Common.Core\Common.Core.csproj", "{34E796FB-AE72-48DA-88D7-6CA46B21C54D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasketContext.Application", "BasketContext.Application\BasketContext.Application.csproj", "{ECEDDF08-60B6-42EE-9CD9-8D2B9B4914F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{34E796FB-AE72-48DA-88D7-6CA46B21C54D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34E796FB-AE72-48DA-88D7-6CA46B21C54D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34E796FB-AE72-48DA-88D7-6CA46B21C54D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECEDDF08-60B6-42EE-9CD9-8D2B9B4914F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECEDDF08-60B6-42EE-9CD9-8D2B9B4914F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECEDDF08-60B6-42EE-9CD9-8D2B9B4914F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECEDDF08-60B6-42EE-9CD9-8D2B9B4914F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

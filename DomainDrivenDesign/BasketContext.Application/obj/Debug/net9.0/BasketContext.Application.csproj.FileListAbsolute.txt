@@ -10,3 +10,9 @@ E:\Lin\Programming\Asp.Net\ASP.Net-Projects\DomainDrivenDesign\BasketContext.App
 E:\Lin\Programming\Asp.Net\ASP.Net-Projects\DomainDrivenDesign\BasketContext.Application\obj\Debug\net9.0\refint\BasketContext.Application.dll
 E:\Lin\Programming\Asp.Net\ASP.Net-Projects\DomainDrivenDesign\BasketContext.Application\obj\Debug\net9.0\BasketContext.Application.pdb
 E:\Lin\Programming\Asp.Net\ASP.Net-Projects\DomainDrivenDesign\BasketContext.Application\obj\Debug\net9.0\ref\BasketContext.Application.dll
+E:\Lin\Programming\Asp.Net\ASP.Net-Projects\DomainDrivenDesign\BasketContext.Application\obj\Debug\net9.0\BasketContext.Application.csproj.AssemblyReference.cache
+E:\Lin\Programming\Asp.Net\ASP.Net-Projects\DomainDrivenDesign\BasketContext.Application\bin\Debug\net9.0\BasketContext.Domain.dll
+E:\Lin\Programming\Asp.Net\ASP.Net-Projects\DomainDrivenDesign\BasketContext.Application\bin\Debug\net9.0\Common.Domain.dll
+E:\Lin\Programming\Asp.Net\ASP.Net-Projects\DomainDrivenDesign\BasketContext.Application\bin\Debug\net9.0\BasketContext.Domain.pdb
+E:\Lin\Programming\Asp.Net\ASP.Net-Projects\DomainDrivenDesign\BasketContext.Application\bin\Debug\net9.0\Common.Domain.pdb
+E:\Lin\Programming\Asp.Net\ASP.Net-Projects\DomainDrivenDesign\BasketContext.Application\obj\Debug\net9.0\BasketCo.AB7BF22D.Up2Date

@@ -16,3 +16,5 @@ E:\Lin\Programming\Asp.Net\ASP.Net-Projects\DomainDrivenDesign\BasketContext.App
 E:\Lin\Programming\Asp.Net\ASP.Net-Projects\DomainDrivenDesign\BasketContext.Application\bin\Debug\net9.0\BasketContext.Domain.pdb
 E:\Lin\Programming\Asp.Net\ASP.Net-Projects\DomainDrivenDesign\BasketContext.Application\bin\Debug\net9.0\Common.Domain.pdb
 E:\Lin\Programming\Asp.Net\ASP.Net-Projects\DomainDrivenDesign\BasketContext.Application\obj\Debug\net9.0\BasketCo.AB7BF22D.Up2Date
+E:\Lin\Programming\Asp.Net\ASP.Net-Projects\DomainDrivenDesign\BasketContext.Application\bin\Debug\net9.0\Common.Core.dll
+E:\Lin\Programming\Asp.Net\ASP.Net-Projects\DomainDrivenDesign\BasketContext.Application\bin\Debug\net9.0\Common.Core.pdb

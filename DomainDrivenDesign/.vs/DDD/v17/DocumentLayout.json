@@ -3,6 +3,42 @@
   "WorkspaceRootPath": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ECEDDF08-60B6-42EE-9CD9-8D2B9B4914F5}|BasketContext.Application\\BasketContext.Application.csproj|e:\\lin\\programming\\asp.net\\asp.net-projects\\domaindrivendesign\\basketcontext.application\\abstractions\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEDDF08-60B6-42EE-9CD9-8D2B9B4914F5}|BasketContext.Application\\BasketContext.Application.csproj|solutionrelative:basketcontext.application\\abstractions\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEDDF08-60B6-42EE-9CD9-8D2B9B4914F5}|BasketContext.Application\\BasketContext.Application.csproj|e:\\lin\\programming\\asp.net\\asp.net-projects\\domaindrivendesign\\basketcontext.application\\abstractions\\commandhandlerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEDDF08-60B6-42EE-9CD9-8D2B9B4914F5}|BasketContext.Application\\BasketContext.Application.csproj|solutionrelative:basketcontext.application\\abstractions\\commandhandlerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEDDF08-60B6-42EE-9CD9-8D2B9B4914F5}|BasketContext.Application\\BasketContext.Application.csproj|e:\\lin\\programming\\asp.net\\asp.net-projects\\domaindrivendesign\\basketcontext.application\\abstractions\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEDDF08-60B6-42EE-9CD9-8D2B9B4914F5}|BasketContext.Application\\BasketContext.Application.csproj|solutionrelative:basketcontext.application\\abstractions\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEDDF08-60B6-42EE-9CD9-8D2B9B4914F5}|BasketContext.Application\\BasketContext.Application.csproj|e:\\lin\\programming\\asp.net\\asp.net-projects\\domaindrivendesign\\basketcontext.application\\abstractions\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEDDF08-60B6-42EE-9CD9-8D2B9B4914F5}|BasketContext.Application\\BasketContext.Application.csproj|solutionrelative:basketcontext.application\\abstractions\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEDDF08-60B6-42EE-9CD9-8D2B9B4914F5}|BasketContext.Application\\BasketContext.Application.csproj|e:\\lin\\programming\\asp.net\\asp.net-projects\\domaindrivendesign\\basketcontext.application\\abstractions\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEDDF08-60B6-42EE-9CD9-8D2B9B4914F5}|BasketContext.Application\\BasketContext.Application.csproj|solutionrelative:basketcontext.application\\abstractions\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEDDF08-60B6-42EE-9CD9-8D2B9B4914F5}|BasketContext.Application\\BasketContext.Application.csproj|e:\\lin\\programming\\asp.net\\asp.net-projects\\domaindrivendesign\\basketcontext.application\\abstractions\\idomaineventdispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEDDF08-60B6-42EE-9CD9-8D2B9B4914F5}|BasketContext.Application\\BasketContext.Application.csproj|solutionrelative:basketcontext.application\\abstractions\\idomaineventdispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEDDF08-60B6-42EE-9CD9-8D2B9B4914F5}|BasketContext.Application\\BasketContext.Application.csproj|e:\\lin\\programming\\asp.net\\asp.net-projects\\domaindrivendesign\\basketcontext.application\\abstractions\\messaging\\iintegrationeventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEDDF08-60B6-42EE-9CD9-8D2B9B4914F5}|BasketContext.Application\\BasketContext.Application.csproj|solutionrelative:basketcontext.application\\abstractions\\messaging\\iintegrationeventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEDDF08-60B6-42EE-9CD9-8D2B9B4914F5}|BasketContext.Application\\BasketContext.Application.csproj|e:\\lin\\programming\\asp.net\\asp.net-projects\\domaindrivendesign\\basketcontext.application\\events\\integration\\basketcreatedintegrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEDDF08-60B6-42EE-9CD9-8D2B9B4914F5}|BasketContext.Application\\BasketContext.Application.csproj|solutionrelative:basketcontext.application\\events\\integration\\basketcreatedintegrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D9DEC34-D769-477A-BA45-7F07D358E867}|BasketContext.Domain\\BasketContext.Domain.csproj|e:\\lin\\programming\\asp.net\\asp.net-projects\\domaindrivendesign\\basketcontext.domain\\baskets\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D9DEC34-D769-477A-BA45-7F07D358E867}|BasketContext.Domain\\BasketContext.Domain.csproj|solutionrelative:basketcontext.domain\\baskets\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ECEDDF08-60B6-42EE-9CD9-8D2B9B4914F5}|BasketContext.Application\\BasketContext.Application.csproj|e:\\lin\\programming\\asp.net\\asp.net-projects\\domaindrivendesign\\basketcontext.application\\coupons\\applycouponcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECEDDF08-60B6-42EE-9CD9-8D2B9B4914F5}|BasketContext.Application\\BasketContext.Application.csproj|solutionrelative:basketcontext.application\\coupons\\applycouponcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -87,10 +123,6 @@
       "RelativeMoniker": "D:0:0:{4D9DEC34-D769-477A-BA45-7F07D358E867}|BasketContext.Domain\\BasketContext.Domain.csproj|solutionrelative:basketcontext.domain\\baskets\\services\\icouponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D9DEC34-D769-477A-BA45-7F07D358E867}|BasketContext.Domain\\BasketContext.Domain.csproj|e:\\lin\\programming\\asp.net\\asp.net-projects\\domaindrivendesign\\basketcontext.domain\\baskets\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D9DEC34-D769-477A-BA45-7F07D358E867}|BasketContext.Domain\\BasketContext.Domain.csproj|solutionrelative:basketcontext.domain\\baskets\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4D9DEC34-D769-477A-BA45-7F07D358E867}|BasketContext.Domain\\BasketContext.Domain.csproj|e:\\lin\\programming\\asp.net\\asp.net-projects\\domaindrivendesign\\basketcontext.domain\\baskets\\events\\totalamountcalculatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D9DEC34-D769-477A-BA45-7F07D358E867}|BasketContext.Domain\\BasketContext.Domain.csproj|solutionrelative:basketcontext.domain\\baskets\\events\\totalamountcalculatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -166,24 +198,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:668305255:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SellerDto.cs",
-              "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Application\\Baskets\\Dtos\\SellerDto.cs",
-              "RelativeDocumentMoniker": "BasketContext.Application\\Baskets\\Dtos\\SellerDto.cs",
-              "ToolTip": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Application\\Baskets\\Dtos\\SellerDto.cs",
-              "RelativeToolTip": "BasketContext.Application\\Baskets\\Dtos\\SellerDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "IQuery.cs",
+              "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Application\\Abstractions\\IQuery.cs",
+              "RelativeDocumentMoniker": "BasketContext.Application\\Abstractions\\IQuery.cs",
+              "ToolTip": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Application\\Abstractions\\IQuery.cs",
+              "RelativeToolTip": "BasketContext.Application\\Abstractions\\IQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T12:27:57.606Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T09:10:34.471Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "IQueryHandler.cs",
+              "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Application\\Abstractions\\IQueryHandler.cs",
+              "RelativeDocumentMoniker": "BasketContext.Application\\Abstractions\\IQueryHandler.cs",
+              "ToolTip": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Application\\Abstractions\\IQueryHandler.cs",
+              "RelativeToolTip": "BasketContext.Application\\Abstractions\\IQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:10:43.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICommandHandler.cs",
+              "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Application\\Abstractions\\ICommandHandler.cs",
+              "RelativeDocumentMoniker": "BasketContext.Application\\Abstractions\\ICommandHandler.cs",
+              "ToolTip": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Application\\Abstractions\\ICommandHandler.cs",
+              "RelativeToolTip": "BasketContext.Application\\Abstractions\\ICommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:09:49.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Application\\Abstractions\\ICommand.cs",
+              "RelativeDocumentMoniker": "BasketContext.Application\\Abstractions\\ICommand.cs",
+              "ToolTip": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Application\\Abstractions\\ICommand.cs",
+              "RelativeToolTip": "BasketContext.Application\\Abstractions\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:14:55.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommandHandlerBase.cs",
+              "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Application\\Abstractions\\CommandHandlerBase.cs",
+              "RelativeDocumentMoniker": "BasketContext.Application\\Abstractions\\CommandHandlerBase.cs",
+              "ToolTip": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Application\\Abstractions\\CommandHandlerBase.cs",
+              "RelativeToolTip": "BasketContext.Application\\Abstractions\\CommandHandlerBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:04:56.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDomainEventDispatcher.cs",
+              "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Application\\Abstractions\\IDomainEventDispatcher.cs",
+              "RelativeDocumentMoniker": "BasketContext.Application\\Abstractions\\IDomainEventDispatcher.cs",
+              "ToolTip": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Application\\Abstractions\\IDomainEventDispatcher.cs",
+              "RelativeToolTip": "BasketContext.Application\\Abstractions\\IDomainEventDispatcher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:10:15.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IIntegrationEventPublisher.cs",
+              "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Application\\Abstractions\\Messaging\\IIntegrationEventPublisher.cs",
+              "RelativeDocumentMoniker": "BasketContext.Application\\Abstractions\\Messaging\\IIntegrationEventPublisher.cs",
+              "ToolTip": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Application\\Abstractions\\Messaging\\IIntegrationEventPublisher.cs",
+              "RelativeToolTip": "BasketContext.Application\\Abstractions\\Messaging\\IIntegrationEventPublisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:04:37.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BasketCreatedIntegrationEvent.cs",
+              "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Application\\Events\\Integration\\BasketCreatedIntegrationEvent.cs",
+              "RelativeDocumentMoniker": "BasketContext.Application\\Events\\Integration\\BasketCreatedIntegrationEvent.cs",
+              "ToolTip": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Application\\Events\\Integration\\BasketCreatedIntegrationEvent.cs",
+              "RelativeToolTip": "BasketContext.Application\\Events\\Integration\\BasketCreatedIntegrationEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T08:57:52.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "CustomerDto.cs",
               "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Application\\Baskets\\Dtos\\CustomerDto.cs",
               "RelativeDocumentMoniker": "BasketContext.Application\\Baskets\\Dtos\\CustomerDto.cs",
@@ -191,12 +314,11 @@
               "RelativeToolTip": "BasketContext.Application\\Baskets\\Dtos\\CustomerDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T12:27:47.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T12:27:47.731Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "BasketItemInfoDto.cs",
               "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Application\\Baskets\\Dtos\\BasketItemInfoDto.cs",
               "RelativeDocumentMoniker": "BasketContext.Application\\Baskets\\Dtos\\BasketItemInfoDto.cs",
@@ -204,12 +326,11 @@
               "RelativeToolTip": "BasketContext.Application\\Baskets\\Dtos\\BasketItemInfoDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T12:27:40.905Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T12:27:40.905Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 14,
               "Title": "BasketItemDto.cs",
               "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Application\\Baskets\\Dtos\\BasketItemDto.cs",
               "RelativeDocumentMoniker": "BasketContext.Application\\Baskets\\Dtos\\BasketItemDto.cs",
@@ -217,12 +338,11 @@
               "RelativeToolTip": "BasketContext.Application\\Baskets\\Dtos\\BasketItemDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T12:27:31.788Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T12:27:31.788Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 15,
               "Title": "BasketDto.cs",
               "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Application\\Baskets\\Dtos\\BasketDto.cs",
               "RelativeDocumentMoniker": "BasketContext.Application\\Baskets\\Dtos\\BasketDto.cs",
@@ -230,16 +350,35 @@
               "RelativeToolTip": "BasketContext.Application\\Baskets\\Dtos\\BasketDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T12:27:23.454Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:668305255:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+              "WhenOpened": "2025-02-02T12:27:23.454Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
+              "Title": "Basket.cs",
+              "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Domain\\Baskets\\Basket.cs",
+              "RelativeDocumentMoniker": "BasketContext.Domain\\Baskets\\Basket.cs",
+              "ToolTip": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Domain\\Baskets\\Basket.cs",
+              "RelativeToolTip": "BasketContext.Domain\\Baskets\\Basket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T08:41:20.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SellerDto.cs",
+              "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Application\\Baskets\\Dtos\\SellerDto.cs",
+              "RelativeDocumentMoniker": "BasketContext.Application\\Baskets\\Dtos\\SellerDto.cs",
+              "ToolTip": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Application\\Baskets\\Dtos\\SellerDto.cs",
+              "RelativeToolTip": "BasketContext.Application\\Baskets\\Dtos\\SellerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T12:27:57.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "BasketProfile.cs",
               "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Application\\MappingProfiles\\BasketProfile.cs",
               "RelativeDocumentMoniker": "BasketContext.Application\\MappingProfiles\\BasketProfile.cs",
@@ -247,12 +386,11 @@
               "RelativeToolTip": "BasketContext.Application\\MappingProfiles\\BasketProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T12:23:21.544Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T12:23:21.544Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "ApplyCouponCommand.cs",
               "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Application\\Coupons\\ApplyCouponCommand.cs",
               "RelativeDocumentMoniker": "BasketContext.Application\\Coupons\\ApplyCouponCommand.cs",
@@ -260,25 +398,23 @@
               "RelativeToolTip": "BasketContext.Application\\Coupons\\ApplyCouponCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T09:53:11.95Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T09:53:11.95Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BasketContext.Application",
+              "DocumentIndex": 16,
+              "Title": "BasketContext.Application.csproj",
               "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Application\\BasketContext.Application.csproj",
               "RelativeDocumentMoniker": "BasketContext.Application\\BasketContext.Application.csproj",
               "ToolTip": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Application\\BasketContext.Application.csproj",
               "RelativeToolTip": "BasketContext.Application\\BasketContext.Application.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-02T12:23:14.146Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T12:23:14.146Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 17,
               "Title": "ExceptionHandlingPipelineBehaviour.cs",
               "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Application\\Behaviours\\ExceptionHandlingPipelineBehaviour.cs",
               "RelativeDocumentMoniker": "BasketContext.Application\\Behaviours\\ExceptionHandlingPipelineBehaviour.cs",
@@ -286,12 +422,11 @@
               "RelativeToolTip": "BasketContext.Application\\Behaviours\\ExceptionHandlingPipelineBehaviour.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T08:08:16.006Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T08:08:16.006Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 19,
               "Title": "ValidationPipelineBehaviour.cs",
               "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Application\\Behaviours\\ValidationPipelineBehaviour.cs",
               "RelativeDocumentMoniker": "BasketContext.Application\\Behaviours\\ValidationPipelineBehaviour.cs",
@@ -299,12 +434,11 @@
               "RelativeToolTip": "BasketContext.Application\\Behaviours\\ValidationPipelineBehaviour.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T01:03:09.929Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T01:03:09.929Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 20,
               "Title": "IRepository.cs",
               "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Application\\Repositories\\IRepository.cs",
               "RelativeDocumentMoniker": "BasketContext.Application\\Repositories\\IRepository.cs",
@@ -312,12 +446,11 @@
               "RelativeToolTip": "BasketContext.Application\\Repositories\\IRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T09:05:55.044Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T09:05:55.044Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 21,
               "Title": "IBasketRepository.cs",
               "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Application\\Repositories\\IBasketRepository.cs",
               "RelativeDocumentMoniker": "BasketContext.Application\\Repositories\\IBasketRepository.cs",
@@ -325,12 +458,11 @@
               "RelativeToolTip": "BasketContext.Application\\Repositories\\IBasketRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T09:05:33.558Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T09:05:33.558Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "GlobalUsings.cs",
               "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Application\\GlobalUsings.cs",
               "RelativeDocumentMoniker": "BasketContext.Application\\GlobalUsings.cs",
@@ -338,12 +470,11 @@
               "RelativeToolTip": "BasketContext.Application\\GlobalUsings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T09:00:42.481Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T09:00:42.481Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 22,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Application\\Repositories\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "BasketContext.Application\\Repositories\\IUnitOfWork.cs",
@@ -351,12 +482,11 @@
               "RelativeToolTip": "BasketContext.Application\\Repositories\\IUnitOfWork.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T09:06:03.159Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T09:06:03.159Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 23,
               "Title": "IntegrationEvent.cs",
               "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\Common.Core\\Events\\IntegrationEvent.cs",
               "RelativeDocumentMoniker": "Common.Core\\Events\\IntegrationEvent.cs",
@@ -364,12 +494,11 @@
               "RelativeToolTip": "Common.Core\\Events\\IntegrationEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T08:42:16.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T08:42:16.217Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 24,
               "Title": "IIntegrationEvent.cs",
               "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\Common.Core\\Events\\IIntegrationEvent.cs",
               "RelativeDocumentMoniker": "Common.Core\\Events\\IIntegrationEvent.cs",
@@ -377,12 +506,11 @@
               "RelativeToolTip": "Common.Core\\Events\\IIntegrationEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T08:42:04.634Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T08:42:04.634Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 25,
               "Title": "AggregateTypeAttribute.cs",
               "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\Common.Domain\\Events\\Decorators\\AggregateTypeAttribute.cs",
               "RelativeDocumentMoniker": "Common.Domain\\Events\\Decorators\\AggregateTypeAttribute.cs",
@@ -390,12 +518,11 @@
               "RelativeToolTip": "Common.Domain\\Events\\Decorators\\AggregateTypeAttribute.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T08:31:11.793Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T08:31:11.793Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 28,
               "Title": "IDomainError.cs",
               "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\Common.Domain\\Errors\\IDomainError.cs",
               "RelativeDocumentMoniker": "Common.Domain\\Errors\\IDomainError.cs",
@@ -403,12 +530,11 @@
               "RelativeToolTip": "Common.Domain\\Errors\\IDomainError.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T08:27:16.273Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T08:27:16.273Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 27,
               "Title": "ErrorType.cs",
               "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\Common.Domain\\Errors\\ErrorType.cs",
               "RelativeDocumentMoniker": "Common.Domain\\Errors\\ErrorType.cs",
@@ -416,12 +542,11 @@
               "RelativeToolTip": "Common.Domain\\Errors\\ErrorType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T08:27:04.273Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T08:27:04.273Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 26,
               "Title": "DomainError.cs",
               "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\Common.Domain\\Errors\\DomainError.cs",
               "RelativeDocumentMoniker": "Common.Domain\\Errors\\DomainError.cs",
@@ -429,12 +554,11 @@
               "RelativeToolTip": "Common.Domain\\Errors\\DomainError.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T08:26:53.997Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T08:26:53.997Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 29,
               "Title": "ICouponService.cs",
               "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Domain\\Baskets\\Services\\ICouponService.cs",
               "RelativeDocumentMoniker": "BasketContext.Domain\\Baskets\\Services\\ICouponService.cs",
@@ -442,12 +566,11 @@
               "RelativeToolTip": "BasketContext.Domain\\Baskets\\Services\\ICouponService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T08:21:20.045Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T08:21:20.045Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 30,
               "Title": "TotalAmountCalculatedEvent.cs",
               "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Domain\\Baskets\\Events\\TotalAmountCalculatedEvent.cs",
               "RelativeDocumentMoniker": "BasketContext.Domain\\Baskets\\Events\\TotalAmountCalculatedEvent.cs",
@@ -455,12 +578,11 @@
               "RelativeToolTip": "BasketContext.Domain\\Baskets\\Events\\TotalAmountCalculatedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T11:43:13.451Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T11:43:13.451Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 31,
               "Title": "ShippingAmountCalculatedEvent.cs",
               "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Domain\\Baskets\\Events\\ShippingAmountCalculatedEvent.cs",
               "RelativeDocumentMoniker": "BasketContext.Domain\\Baskets\\Events\\ShippingAmountCalculatedEvent.cs",
@@ -468,12 +590,11 @@
               "RelativeToolTip": "BasketContext.Domain\\Baskets\\Events\\ShippingAmountCalculatedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T11:43:02.823Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T11:43:02.823Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 32,
               "Title": "CustomerAssignedEvent.cs",
               "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Domain\\Baskets\\Events\\CustomerAssignedEvent.cs",
               "RelativeDocumentMoniker": "BasketContext.Domain\\Baskets\\Events\\CustomerAssignedEvent.cs",
@@ -481,12 +602,11 @@
               "RelativeToolTip": "BasketContext.Domain\\Baskets\\Events\\CustomerAssignedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T11:42:52.711Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T11:42:52.711Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 33,
               "Title": "CouponRemovedEvent.cs",
               "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Domain\\Baskets\\Events\\CouponRemovedEvent.cs",
               "RelativeDocumentMoniker": "BasketContext.Domain\\Baskets\\Events\\CouponRemovedEvent.cs",
@@ -494,12 +614,11 @@
               "RelativeToolTip": "BasketContext.Domain\\Baskets\\Events\\CouponRemovedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T11:42:28.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T11:42:28.399Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 34,
               "Title": "CouponAppliedEvent.cs",
               "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Domain\\Baskets\\Events\\CouponAppliedEvent.cs",
               "RelativeDocumentMoniker": "BasketContext.Domain\\Baskets\\Events\\CouponAppliedEvent.cs",
@@ -507,25 +626,11 @@
               "RelativeToolTip": "BasketContext.Domain\\Baskets\\Events\\CouponAppliedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T11:42:04.271Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T11:42:04.271Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Basket.cs",
-              "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Domain\\Baskets\\Basket.cs",
-              "RelativeDocumentMoniker": "BasketContext.Domain\\Baskets\\Basket.cs",
-              "ToolTip": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Domain\\Baskets\\Basket.cs",
-              "RelativeToolTip": "BasketContext.Domain\\Baskets\\Basket.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAIBpwB0AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T08:41:20.439Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 35,
               "Title": "BasketItemsDeletedEvent.cs",
               "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Domain\\Baskets\\Events\\BasketItemsDeletedEvent.cs",
               "RelativeDocumentMoniker": "BasketContext.Domain\\Baskets\\Events\\BasketItemsDeletedEvent.cs",
@@ -533,12 +638,11 @@
               "RelativeToolTip": "BasketContext.Domain\\Baskets\\Events\\BasketItemsDeletedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T11:41:54.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T11:41:54.148Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 36,
               "Title": "BasketItemsAmountCalculatedEvent.cs",
               "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Domain\\Baskets\\Events\\BasketItemsAmountCalculatedEvent.cs",
               "RelativeDocumentMoniker": "BasketContext.Domain\\Baskets\\Events\\BasketItemsAmountCalculatedEvent.cs",
@@ -546,12 +650,11 @@
               "RelativeToolTip": "BasketContext.Domain\\Baskets\\Events\\BasketItemsAmountCalculatedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T11:41:43.446Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T11:41:43.446Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 37,
               "Title": "BasketItemDeletedEvent.cs",
               "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Domain\\Baskets\\Events\\BasketItemDeletedEvent.cs",
               "RelativeDocumentMoniker": "BasketContext.Domain\\Baskets\\Events\\BasketItemDeletedEvent.cs",
@@ -559,12 +662,11 @@
               "RelativeToolTip": "BasketContext.Domain\\Baskets\\Events\\BasketItemDeletedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T11:41:33.636Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T11:41:33.636Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 38,
               "Title": "BasketItemDeactivatedEvent.cs",
               "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Domain\\Baskets\\Events\\BasketItemDeactivatedEvent.cs",
               "RelativeDocumentMoniker": "BasketContext.Domain\\Baskets\\Events\\BasketItemDeactivatedEvent.cs",
@@ -572,12 +674,11 @@
               "RelativeToolTip": "BasketContext.Domain\\Baskets\\Events\\BasketItemDeactivatedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T11:41:21.921Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T11:41:21.921Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 39,
               "Title": "BasketItemAddedEvent.cs",
               "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Domain\\Baskets\\Events\\BasketItemAddedEvent.cs",
               "RelativeDocumentMoniker": "BasketContext.Domain\\Baskets\\Events\\BasketItemAddedEvent.cs",
@@ -585,12 +686,11 @@
               "RelativeToolTip": "BasketContext.Domain\\Baskets\\Events\\BasketItemAddedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T11:40:58.436Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T11:40:58.436Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 40,
               "Title": "BasketItemActivatedEvent.cs",
               "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Domain\\Baskets\\Events\\BasketItemActivatedEvent.cs",
               "RelativeDocumentMoniker": "BasketContext.Domain\\Baskets\\Events\\BasketItemActivatedEvent.cs",
@@ -598,12 +698,11 @@
               "RelativeToolTip": "BasketContext.Domain\\Baskets\\Events\\BasketItemActivatedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T11:40:56.842Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T11:40:56.842Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 41,
               "Title": "BasketCreatedEvent.cs",
               "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Domain\\Baskets\\Events\\BasketCreatedEvent.cs",
               "RelativeDocumentMoniker": "BasketContext.Domain\\Baskets\\Events\\BasketCreatedEvent.cs",
@@ -611,25 +710,23 @@
               "RelativeToolTip": "BasketContext.Domain\\Baskets\\Events\\BasketCreatedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T11:40:55.139Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T11:40:55.139Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 42,
               "Title": "Coupon.cs",
               "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Domain\\Coupons\\Coupon.cs",
               "RelativeDocumentMoniker": "BasketContext.Domain\\Coupons\\Coupon.cs",
               "ToolTip": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Domain\\Coupons\\Coupon.cs",
               "RelativeToolTip": "BasketContext.Domain\\Coupons\\Coupon.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAABhwBkAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAEBlwBkAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T11:16:13.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T11:16:13.945Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 43,
               "Title": "AggregateRoot.cs",
               "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\Common.Domain\\AggregateRoot.cs",
               "RelativeDocumentMoniker": "Common.Domain\\AggregateRoot.cs",
@@ -637,12 +734,11 @@
               "RelativeToolTip": "Common.Domain\\AggregateRoot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T10:43:25.643Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T10:43:25.643Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 44,
               "Title": "Customer.cs",
               "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Domain\\Baskets\\Customer.cs",
               "RelativeDocumentMoniker": "BasketContext.Domain\\Baskets\\Customer.cs",
@@ -650,12 +746,11 @@
               "RelativeToolTip": "BasketContext.Domain\\Baskets\\Customer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T10:04:58.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T10:04:58.669Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 46,
               "Title": "IId.cs",
               "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\Common.Domain\\IId.cs",
               "RelativeDocumentMoniker": "Common.Domain\\IId.cs",
@@ -663,12 +758,11 @@
               "RelativeToolTip": "Common.Domain\\IId.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T08:49:01.114Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T08:49:01.114Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 45,
               "Title": "Id.cs",
               "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\Common.Domain\\Id.cs",
               "RelativeDocumentMoniker": "Common.Domain\\Id.cs",
@@ -676,8 +770,7 @@
               "RelativeToolTip": "Common.Domain\\Id.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T08:48:54.887Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T08:48:54.887Z"
             }
           ]
         }

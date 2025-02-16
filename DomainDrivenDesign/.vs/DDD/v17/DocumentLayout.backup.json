@@ -318,8 +318,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:668305255:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -328,14 +332,10 @@
               "RelativeDocumentMoniker": "BasketContext.Application\\Events\\Dispatchers\\DomainEventDispatcher.cs",
               "ToolTip": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Application\\Events\\Dispatchers\\DomainEventDispatcher.cs",
               "RelativeToolTip": "BasketContext.Application\\Events\\Dispatchers\\DomainEventDispatcher.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-13T09:28:51.547Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:668305255:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
             },
             {
               "$type": "Document",
@@ -395,8 +395,7 @@
               "RelativeToolTip": "BasketContext.Application\\Events\\Integration\\BasketCreatedIntegrationEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T08:57:52.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T08:57:52.205Z"
             },
             {
               "$type": "Document",

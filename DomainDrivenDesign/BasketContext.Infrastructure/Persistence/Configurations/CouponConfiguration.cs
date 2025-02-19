@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
-using VOEConsulting.Flame.BasketContext.Infrastructure.Entities;
+using BasketContext.Infrastructure.Entities;
 using static Azure.Core.HttpHeader;
 
 public class CouponConfiguration : IEntityTypeConfiguration<CouponEntity>

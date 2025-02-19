@@ -1,0 +1,13 @@
+E:\Lin\Programming\Asp.Net\ASP.Net-Projects\DomainDrivenDesign\Common.Domain\bin\Debug\net9.0\Common.Domain.deps.json
+E:\Lin\Programming\Asp.Net\ASP.Net-Projects\DomainDrivenDesign\Common.Domain\bin\Debug\net9.0\Common.Domain.dll
+E:\Lin\Programming\Asp.Net\ASP.Net-Projects\DomainDrivenDesign\Common.Domain\bin\Debug\net9.0\Common.Domain.pdb
+E:\Lin\Programming\Asp.Net\ASP.Net-Projects\DomainDrivenDesign\Common.Domain\obj\Debug\net9.0\Common.Domain.csproj.AssemblyReference.cache
+E:\Lin\Programming\Asp.Net\ASP.Net-Projects\DomainDrivenDesign\Common.Domain\obj\Debug\net9.0\Common.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lin\Programming\Asp.Net\ASP.Net-Projects\DomainDrivenDesign\Common.Domain\obj\Debug\net9.0\Common.Domain.AssemblyInfoInputs.cache
+E:\Lin\Programming\Asp.Net\ASP.Net-Projects\DomainDrivenDesign\Common.Domain\obj\Debug\net9.0\Common.Domain.AssemblyInfo.cs
+E:\Lin\Programming\Asp.Net\ASP.Net-Projects\DomainDrivenDesign\Common.Domain\obj\Debug\net9.0\Common.Domain.csproj.CoreCompileInputs.cache
+E:\Lin\Programming\Asp.Net\ASP.Net-Projects\DomainDrivenDesign\Common.Domain\obj\Debug\net9.0\Common.Domain.sourcelink.json
+E:\Lin\Programming\Asp.Net\ASP.Net-Projects\DomainDrivenDesign\Common.Domain\obj\Debug\net9.0\Common.Domain.dll
+E:\Lin\Programming\Asp.Net\ASP.Net-Projects\DomainDrivenDesign\Common.Domain\obj\Debug\net9.0\refint\Common.Domain.dll
+E:\Lin\Programming\Asp.Net\ASP.Net-Projects\DomainDrivenDesign\Common.Domain\obj\Debug\net9.0\Common.Domain.pdb
+E:\Lin\Programming\Asp.Net\ASP.Net-Projects\DomainDrivenDesign\Common.Domain\obj\Debug\net9.0\ref\Common.Domain.dll

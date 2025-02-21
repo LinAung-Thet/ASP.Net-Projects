@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B8C3F105-9A07-4210-8D89-42EA22091D05}|BasketContext.Api\\BasketContext.Api.csproj|e:\\lin\\programming\\asp.net\\asp.net-projects\\domaindrivendesign\\basketcontext.api\\extensions\\problemdetailsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C3F105-9A07-4210-8D89-42EA22091D05}|BasketContext.Api\\BasketContext.Api.csproj|solutionrelative:basketcontext.api\\extensions\\problemdetailsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A17F6ACD-9159-4049-9CBC-41FC36ECC378}|BasketContext.Infrastructure\\BasketContext.Infrastructure.csproj|e:\\lin\\programming\\asp.net\\asp.net-projects\\domaindrivendesign\\basketcontext.infrastructure\\infrastructureextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A17F6ACD-9159-4049-9CBC-41FC36ECC378}|BasketContext.Infrastructure\\BasketContext.Infrastructure.csproj|solutionrelative:basketcontext.infrastructure\\infrastructureextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +34,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "ProblemDetailsExtensions.cs",
+              "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Api\\Extensions\\ProblemDetailsExtensions.cs",
+              "RelativeDocumentMoniker": "BasketContext.Api\\Extensions\\ProblemDetailsExtensions.cs",
+              "ToolTip": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Api\\Extensions\\ProblemDetailsExtensions.cs",
+              "RelativeToolTip": "BasketContext.Api\\Extensions\\ProblemDetailsExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T09:07:44.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Infrastructure\\Persistence\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "BasketContext.Infrastructure\\Persistence\\UnitOfWork.cs",
@@ -42,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "BasketContext.Infrastructure.csproj",
               "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Infrastructure\\BasketContext.Infrastructure.csproj",
               "RelativeDocumentMoniker": "BasketContext.Infrastructure\\BasketContext.Infrastructure.csproj",
@@ -55,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "InfrastructureExtensions.cs",
               "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Infrastructure\\InfrastructureExtensions.cs",
               "RelativeDocumentMoniker": "BasketContext.Infrastructure\\InfrastructureExtensions.cs",

@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using VOEConsulting.Flame.BasketContext.Api.Extensions;
-using VOEConsulting.Flame.Common.Domain.Errors;
+using BasketContext.Api.Extensions;
+using Common.Domain.Errors;
 
-namespace VOEConsulting.Flame.BasketContext.Api.Controllers
+namespace BasketContext.Api.Controllers
 {
     [ApiController]
     public abstract partial class BaseController : ControllerBase

@@ -46,9 +46,9 @@
               "Title": "BasketController.cs",
               "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Api\\Controllers\\BasketController.cs",
               "RelativeDocumentMoniker": "BasketContext.Api\\Controllers\\BasketController.cs",
-              "ToolTip": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Api\\Controllers\\BasketController.cs*",
-              "RelativeToolTip": "BasketContext.Api\\Controllers\\BasketController.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "ToolTip": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Api\\Controllers\\BasketController.cs",
+              "RelativeToolTip": "BasketContext.Api\\Controllers\\BasketController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-23T09:05:01.537Z",
               "EditorCaption": ""
@@ -63,8 +63,7 @@
               "RelativeToolTip": "BasketContext.Api\\Controllers\\BaseController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T21:43:18.649Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T21:43:18.649Z"
             },
             {
               "$type": "Document",

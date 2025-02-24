@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B8C3F105-9A07-4210-8D89-42EA22091D05}|BasketContext.Api\\BasketContext.Api.csproj|e:\\lin\\programming\\asp.net\\asp.net-projects\\domaindrivendesign\\basketcontext.api\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C3F105-9A07-4210-8D89-42EA22091D05}|BasketContext.Api\\BasketContext.Api.csproj|solutionrelative:basketcontext.api\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B8C3F105-9A07-4210-8D89-42EA22091D05}|BasketContext.Api\\BasketContext.Api.csproj|e:\\lin\\programming\\asp.net\\asp.net-projects\\domaindrivendesign\\basketcontext.api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8C3F105-9A07-4210-8D89-42EA22091D05}|BasketContext.Api\\BasketContext.Api.csproj|solutionrelative:basketcontext.api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -39,6 +43,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BasketController.cs",
+              "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Api\\Controllers\\BasketController.cs",
+              "RelativeDocumentMoniker": "BasketContext.Api\\Controllers\\BasketController.cs",
+              "ToolTip": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Api\\Controllers\\BasketController.cs",
+              "RelativeToolTip": "BasketContext.Api\\Controllers\\BasketController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T09:05:01.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "BaseController.cs",
               "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Api\\Controllers\\BaseController.cs",
               "RelativeDocumentMoniker": "BasketContext.Api\\Controllers\\BaseController.cs",
@@ -51,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ProblemDetailsExtensions.cs",
               "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Api\\Extensions\\ProblemDetailsExtensions.cs",
               "RelativeDocumentMoniker": "BasketContext.Api\\Extensions\\ProblemDetailsExtensions.cs",
@@ -59,12 +76,11 @@
               "RelativeToolTip": "BasketContext.Api\\Extensions\\ProblemDetailsExtensions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T09:07:44.84Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T09:07:44.84Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Infrastructure\\Persistence\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "BasketContext.Infrastructure\\Persistence\\UnitOfWork.cs",
@@ -76,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "BasketContext.Infrastructure.csproj",
               "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Infrastructure\\BasketContext.Infrastructure.csproj",
               "RelativeDocumentMoniker": "BasketContext.Infrastructure\\BasketContext.Infrastructure.csproj",
@@ -88,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "InfrastructureExtensions.cs",
               "DocumentMoniker": "E:\\Lin\\Programming\\Asp.Net\\ASP.Net-Projects\\DomainDrivenDesign\\BasketContext.Infrastructure\\InfrastructureExtensions.cs",
               "RelativeDocumentMoniker": "BasketContext.Infrastructure\\InfrastructureExtensions.cs",

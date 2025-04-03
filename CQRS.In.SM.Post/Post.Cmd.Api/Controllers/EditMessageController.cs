@@ -1,7 +1,6 @@
 using CQRS.Core.Exceptions;
 using CQRS.Core.Infrastructure;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
 using Post.Cmd.Api.Commands;
 using Post.Common.DTOs;
 
@@ -9,19 +8,19 @@ namespace Post.Cmd.Api.Controllers
 {
     [ApiController]
     [Route("api/v1/[controller]")]
-    public class EditCommentController : ControllerBase
+    public class EditMessageController : ControllerBase
     {
-        private readonly ILogger<EditCommentController> _logger;
+        private readonly ILogger<EditMessageController> _logger;
         private readonly ICommandDispatcher _commandDispatcher;
 
-        public EditCommentController(ILogger<EditCommentController> logger, ICommandDispatcher commandDispatcher)
+        public EditMessageController(ILogger<EditMessageController> logger, ICommandDispatcher commandDispatcher)
         {
             _logger = logger;
             _commandDispatcher = commandDispatcher;
         }
 
         [HttpPut("{id}")]
-        public async Task<ActionResult> EditCommentAsync(Guid id, EditCommentCommand command)
+        public async Task<ActionResult> EditMessageAsync(Guid id, EditMessageCommand command)
         {
             try
             {
@@ -30,7 +29,7 @@ namespace Post.Cmd.Api.Controllers
 
                 return Ok(new BaseResponse
                 {
-                    Message = "Edit comment request completed successfully!"
+                    Message = "Edit message request completed successfully!"
                 });
             }
             catch (InvalidOperationException ex)
@@ -51,7 +50,7 @@ namespace Post.Cmd.Api.Controllers
             }
             catch (Exception ex)
             {
-                const string SAFE_ERROR_MESSAGE = "Error while processing request to edit a comment on a post!";
+                const string SAFE_ERROR_MESSAGE = "Error while processing request to edit the message of a post!";
                 _logger.Log(LogLevel.Error, ex, SAFE_ERROR_MESSAGE);
 
                 return StatusCode(StatusCodes.Status500InternalServerError, new BaseResponse

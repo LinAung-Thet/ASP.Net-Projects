@@ -1,5 +1,6 @@
 using CQRS.Core.Exceptions;
 using CQRS.Core.Infrastructure;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Post.Cmd.Api.Commands;

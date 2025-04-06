@@ -10,28 +10,27 @@ namespace Post.Cmd.Api.Controllers
 {
     [ApiController]
     [Route("api/v1/[controller]")]
-    public class DeletePostController : ControllerBase
+    public class LikePostController : ControllerBase
     {
-        private readonly ILogger<DeletePostController> _logger;
+        private readonly ILogger<LikePostController> _logger;
         private readonly ICommandDispatcher _commandDispatcher;
 
-        public DeletePostController(ILogger<DeletePostController> logger, ICommandDispatcher commandDispatcher)
+        public LikePostController(ILogger<LikePostController> logger, ICommandDispatcher commandDispatcher)
         {
             _logger = logger;
             _commandDispatcher = commandDispatcher;
         }
 
-        [HttpDelete("{id}")]
-        public async Task<ActionResult> DeletePostAsync(Guid id, DeletePostCommand command)
+        [HttpPut("{id}")]
+        public async Task<ActionResult> LikePostAsync(Guid id)
         {
             try
             {
-                command.Id = id;
-                await _commandDispatcher.SendAsync(command);
+                await _commandDispatcher.SendAsync(new LikePostCommand { Id = id });
 
                 return Ok(new BaseResponse
                 {
-                    Message = "Delete post request completed successfully!"
+                    Message = "Like post request completed successfully!"
                 });
             }
             catch (InvalidOperationException ex)
@@ -52,7 +51,7 @@ namespace Post.Cmd.Api.Controllers
             }
             catch (Exception ex)
             {
-                const string SAFE_ERROR_MESSAGE = "Error while processing request to delete a post!";
+                const string SAFE_ERROR_MESSAGE = "Error while processing request to like a post!";
                 _logger.Log(LogLevel.Error, ex, SAFE_ERROR_MESSAGE);
 
                 return StatusCode(StatusCodes.Status500InternalServerError, new BaseResponse
